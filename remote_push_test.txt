@@ -1,0 +1,5 @@
+Remote push test file
+Date: 2026-08-17
+Purpose: verify push to remote repository from local workspace
+
+Ignore: this is a temporary test file created to verify remote push connectivity.
