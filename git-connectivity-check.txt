@@ -1,0 +1,2 @@
+Git connectivity check created on 2026-08-17.
+This file confirms the repo is connected to the remote GitHub repository.
